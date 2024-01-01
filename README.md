@@ -1,4 +1,4 @@
-# Image_classifictaion
+# Image_classification
 
 It is a data science and machine learning project, we classify  personalities. We restrict classification to only 7 people,
 
