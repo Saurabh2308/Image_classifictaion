@@ -2,10 +2,10 @@
 
 
 
-Overview:
+#### Overview:
 This data science and machine learning project focuses on classifying personalities among seven prominent individuals: Elon Musk, Kareena Kapoor, Larry Fink, Lionel Messi, Dwayne Johnson, Sam Altman, and Tom Cruise. The project employs a combination of image processing, feature extraction, and machine learning techniques to identify and classify these personalities.
 
-Project Structure:
+#### Project Structure:
 UI: Contains the code for the user interface, facilitating easy interaction with the model.
 Server: Python Flask server handling HTTP requests and responses.
 Model: Jupyter notebooks for building and training the machine learning model.
@@ -19,7 +19,7 @@ Scikit-learn (Sklearn): Employed for model building and evaluation.
 Jupyter Notebook, Visual Studio Code, and PyCharm: Integrated Development Environments (IDEs) for coding.
 Python Flask: Framework for building the HTTP server.
 HTML/CSS/Javascript: Technologies used for designing the user interface.
-Model Building Process:
+#### Model Building Process:
 Import Libraries: Essential libraries, including Numpy, PyWavelets, OpenCV, and Scikit-learn, are imported.
 
 Wavelet Transformation Function: A function (w2d) is defined for wavelet transformation, a technique used for feature extraction.
@@ -30,11 +30,11 @@ Data Preparation for Model Training: Data is organized and prepared for training
 
 Splitting the Dataset: The dataset is split into training and testing sets.
 
-Model Training and Evaluation:
+#### Model Training and Evaluation:
 
 Support Vector Machine (SVM): Utilizing a pipeline with hyperparameter tuning using grid search.
 Random Forest: Employing a pipeline with hyperparameter tuning.
 Logistic Regression: Employing a pipeline with hyperparameter tuning.
 Model Evaluation and Comparison: Models are evaluated on the test set, and their accuracy is compared.
 
-Confusion Matrix and Classification Report: Confusion matrices and classification reports provide a detailed analysis of model performance.
+Confusion Matrix and Classification Report:  SVM model give 32 accuracy.
