@@ -37,4 +37,4 @@ Random Forest: Employing a pipeline with hyperparameter tuning.
 Logistic Regression: Employing a pipeline with hyperparameter tuning.
 Model Evaluation and Comparison: Models are evaluated on the test set, and their accuracy is compared.
 
-Confusion Matrix and Classification Report:  SVM model give 32% accuracy.
+Confusion Matrix and Classification Report:  SVM model give  80% accuracy.
